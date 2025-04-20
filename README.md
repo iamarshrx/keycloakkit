@@ -60,7 +60,7 @@ The actual codebase is proprietary. All rights reserved.
 
 - Keycloak
 - Tailwind CSS
-- Angular / Node.js
+- Angular / .NET
 - ❤️ Dev-first UX
 
 ---
